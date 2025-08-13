@@ -76,7 +76,7 @@
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             const galeria = document.getElementById('galeria');
-            const baseUrl = 'https://criz.github.io/imagenes/';
+            const baseUrl = 'https://crisalui.github.io/abarrotes2025/';
             const totalImagenes = 12; // Cambiado de 50 a 12
 
             // Crear contenedores para cada imagen
